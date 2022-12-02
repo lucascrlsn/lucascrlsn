@@ -18,11 +18,11 @@
 
 _________________________________________________________________________________________________________________________
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am a hobbyist in the world of frontend, backend, UX/UI, Ham Radio, IPFS, blockchain and anything that catches my interest.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Google Apps Script
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I chop wood
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carlson/)
 
