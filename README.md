@@ -16,6 +16,8 @@
   </a>
 </div>
 
+_________________________________________________________________________________________________________________________
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -24,6 +26,8 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carlson/)
 
+_________________________________________________________________________________________________________________________
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -31,7 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 </div>
----
+
+_________________________________________________________________________________________________________________________
 
 ### :fire: My Stats :
 
