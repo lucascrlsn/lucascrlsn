@@ -1,8 +1,10 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13d2jHlSlxklVe/giphy.gif" width="800"/>
 </div>
+
+<br>
+
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lucas-carlson/">
@@ -16,7 +18,7 @@
   </a>
 </div>
 
-_________________________________________________________________________________________________________________________
+---
 
 - :telescope: I am a hobbyist in the world of frontend, backend, UX/UI, Ham Radio, IPFS, blockchain and anything that catches my interest.
 
@@ -26,7 +28,7 @@ ________________________________________________________________________________
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carlson/)
 
-_________________________________________________________________________________________________________________________
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -37,13 +39,13 @@ ________________________________________________________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
 </div>
 
-_________________________________________________________________________________________________________________________
+---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucascrlsn&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascrlsn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascrlsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
