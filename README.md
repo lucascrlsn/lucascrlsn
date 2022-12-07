@@ -45,7 +45,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucascrlsn&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascrlsn)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascrlsn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
