@@ -20,7 +20,7 @@
 
 ---
 
-- :telescope: I am a hobbyist in the world of frontend, backend, UX/UI, Ham Radio, IPFS, blockchain and anything that catches my interest.
+<!-- - :telescope: I am a hobbyist in the world of frontend, backend, UX/UI, Ham Radio, IPFS, blockchain and anything that catches my interest. -->
 
 - :seedling: Exploring Dataview and template design in Obsidian
 
